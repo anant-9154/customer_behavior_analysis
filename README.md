@@ -110,4 +110,4 @@ B.Tech Graduate | Data Analytics Enthusiast
 
 **Core Skills:** Python | SQL | MySQL | Excel | Power BI | Data Cleaning | EDA | Data Visualization
 
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/anant-kumar-2aa047366/) | [GitHub](https://github.com/anant-9154)
